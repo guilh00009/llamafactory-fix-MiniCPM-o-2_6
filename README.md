@@ -36,3 +36,5 @@ Replace the file in the cache with this one using the same damn name: image_proc
 Now you can train the model without any more fucking problems!
 
 If you’re wondering where the hell it’s located, I left a screenshot of its location in Google Colab as an example!
+
+<img width="443" height="705" alt="Captura de tela 2025-08-22 145355" src="https://github.com/user-attachments/assets/57cfe087-c97c-4ed1-b843-0598ce5d4254" />
