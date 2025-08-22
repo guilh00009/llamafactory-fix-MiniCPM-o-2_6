@@ -1,3 +1,5 @@
+VERSÃO PORTUGUESA DO TUTORIAL
+
 ok eu arrumei muita merda no llamafactory, não me entenda mal, o llamafactory é bom, mas esta claramente desatualizado
 
 tutorial para treinar o minicpm v2.6 omni funcionando atualizado:
@@ -13,3 +15,23 @@ tutorial para treinar o minicpm v2.6 omni funcionando atualizado:
 agora é possivel treinar o modelo sem problemas!
 
 se esta com duvidas sobre onde é localizado, deixei uma print da localização disso no google colab como exemplo!
+
+
+-----
+
+ENGLISH TUTORIAL VERSION
+Okay, I fixed a shitload of crap in LLaMA-Factory. Don’t get me wrong, LLaMA-Factory is good, but it’s clearly outdated as fuck.
+
+Tutorial to train MiniCPM v2.6 Omni without any bullshit:
+
+Install LLaMA-Factory like a normal human.
+
+Run this shit: pip install llamafactory --upgrade
+
+Run this shit too: pip install transformers==4.49.0
+
+Replace the file in the cache with this one using the same damn name: image_processing_minicpmv.py
+
+Now you can train the model without any more fucking problems!
+
+If you’re wondering where the hell it’s located, I left a screenshot of its location in Google Colab as an example!
