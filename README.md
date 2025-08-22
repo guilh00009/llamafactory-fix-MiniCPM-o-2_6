@@ -20,6 +20,7 @@ se esta com duvidas sobre onde é localizado, deixei uma print da localização 
 -----
 
 ENGLISH TUTORIAL VERSION
+
 Okay, I fixed a shitload of crap in LLaMA-Factory. Don’t get me wrong, LLaMA-Factory is good, but it’s clearly outdated as fuck.
 
 Tutorial to train MiniCPM v2.6 Omni without any bullshit:
