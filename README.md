@@ -42,3 +42,5 @@ If you’re wondering where the hell it’s located, I left a screenshot of its 
 (essas são as configs que eu estou para treinar o meu modelo como teste)
 This is the configs im using to train my model as a test.
 <img width="1784" height="847" alt="Captura de tela 2025-08-22 152935" src="https://github.com/user-attachments/assets/58ecb7dd-32cd-43bb-b7b6-cde595df2f54" />
+
+<img width="1884" height="957" alt="image" src="https://github.com/user-attachments/assets/bda367e8-d2f1-48a9-85d0-77dea6b57e42" />
