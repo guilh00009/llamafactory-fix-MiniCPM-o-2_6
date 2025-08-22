@@ -39,5 +39,6 @@ If you’re wondering where the hell it’s located, I left a screenshot of its 
 
 <img width="443" height="705" alt="Captura de tela 2025-08-22 145355" src="https://github.com/user-attachments/assets/57cfe087-c97c-4ed1-b843-0598ce5d4254" />
 
+(essas são as configs que eu estou para treinar o meu modelo como teste)
 This is the configs im using to train my model as a test.
 <img width="1784" height="847" alt="Captura de tela 2025-08-22 152935" src="https://github.com/user-attachments/assets/58ecb7dd-32cd-43bb-b7b6-cde595df2f54" />
