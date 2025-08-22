@@ -6,9 +6,9 @@ tutorial para treinar o minicpm v2.6 omni funcionando atualizado:
 
 1. instale normalmente o llama factory
 
-2 rode isso: pip install llamafactory --upgrade
+2 rode isso: ```pip install llamafactory --upgrade```
 
-3. rode isso: pip install transformers==4.49.0
+3. rode isso: ```pip install transformers==4.49.0```
 
 4. substitua o arquivo que esta no cache por este com o mesmo nome: image_processing_minicpmv.py
 
@@ -27,9 +27,9 @@ Tutorial to train MiniCPM v2.6 Omni without any bullshit:
 
 Install LLaMA-Factory like a normal human.
 
-Run this shit: pip install llamafactory --upgrade
+Run this shit: ```pip install llamafactory --upgrade```
 
-Run this shit too: pip install transformers==4.49.0
+Run this shit too: ```pip install transformers==4.49.0```
 
 Replace the file in the cache with this one using the same damn name: image_processing_minicpmv.py
 
