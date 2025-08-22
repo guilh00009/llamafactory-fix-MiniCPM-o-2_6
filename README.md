@@ -1,4 +1,4 @@
-VERSÃO PORTUGUESA DO TUTORIAL
+VERSÃO BRASILEIRA DO TUTORIAL
 
 ok eu arrumei muita merda no llamafactory, não me entenda mal, o llamafactory é bom, mas esta claramente desatualizado
 
