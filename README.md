@@ -44,3 +44,6 @@ This is the configs im using to train my model as a test.
 <img width="1784" height="847" alt="Captura de tela 2025-08-22 152935" src="https://github.com/user-attachments/assets/58ecb7dd-32cd-43bb-b7b6-cde595df2f54" />
 
 <img width="1884" height="957" alt="image" src="https://github.com/user-attachments/assets/bda367e8-d2f1-48a9-85d0-77dea6b57e42" />
+
+INFERENCE TRANSFORMERS:
+```pip install transformers==4.44```
